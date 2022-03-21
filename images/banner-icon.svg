@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="221" height="39" viewBox="0 0 221 39">
+  <g id="Group_10551" data-name="Group 10551" transform="translate(-0.27 0.373)">
+    <g id="Rectangle_990" data-name="Rectangle 990" transform="translate(0.27 -0.373)" fill="none" stroke="#fff" stroke-width="1">
+      <rect width="221" height="39" rx="19.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="220" height="38" rx="19" fill="none"/>
+    </g>
+    <g id="Group_10479" data-name="Group 10479" transform="translate(20.4 8.16)">
+      <text id="Information_Technology" data-name="Information Technology" transform="translate(105.576 15.36)" fill="#fff" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-77" y="0">Information Technology</tspan></text>
+      <g id="business-and-trade_2_" data-name="business-and-trade (2)" transform="translate(0 0)">
+        <path id="Path_5489" data-name="Path 5489" d="M11.844,1.716,1.854.2A1.611,1.611,0,0,0,.564.553,1.625,1.625,0,0,0,0,1.771V20.923a.912.912,0,0,0,.909.909H3.863V17.06a1.587,1.587,0,0,1,1.591-1.591H7.727A1.587,1.587,0,0,1,9.317,17.06v4.772h3.863V3.289a1.592,1.592,0,0,0-1.336-1.573ZM5,13.424H3.636a.682.682,0,0,1,0-1.364H5a.682.682,0,0,1,0,1.364ZM5,10.7H3.636a.682.682,0,1,1,0-1.364H5A.682.682,0,1,1,5,10.7ZM5,7.97H3.636a.682.682,0,0,1,0-1.364H5A.682.682,0,0,1,5,7.97ZM5,5.243H3.636a.682.682,0,0,1,0-1.364H5A.682.682,0,0,1,5,5.243Zm4.545,8.181H8.181a.682.682,0,0,1,0-1.364H9.545a.682.682,0,0,1,0,1.364Zm0-2.727H8.181a.682.682,0,1,1,0-1.364H9.545a.682.682,0,1,1,0,1.364Zm0-2.727H8.181a.682.682,0,0,1,0-1.364H9.545a.682.682,0,0,1,0,1.364Zm0-2.727H8.181a.682.682,0,0,1,0-1.364H9.545a.682.682,0,0,1,0,1.364Z" transform="translate(0 -0.178)" fill="#fff"/>
+        <path id="Path_5490" data-name="Path 5490" d="M21.972,10.706,15.5,9.351V22.667h6.136a1.593,1.593,0,0,0,1.591-1.591V12.261A1.583,1.583,0,0,0,21.972,10.706ZM19.818,19.94H18.454a.682.682,0,0,1,0-1.364h1.364a.682.682,0,0,1,0,1.364Zm0-2.727H18.454a.682.682,0,1,1,0-1.364h1.364a.682.682,0,0,1,0,1.364Zm0-2.727H18.454a.682.682,0,1,1,0-1.364h1.364a.682.682,0,1,1,0,1.364Z" transform="translate(-1.41 -1.013)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
